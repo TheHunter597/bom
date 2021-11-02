@@ -13,8 +13,11 @@ and color as an indicative
 
 * scrolling up the page would cause the nav to scroll down
 
-# Development
+* changing the class of sections is dependent upon a scroll event linked to event Listener
+
+# Contribute
 
 * was developed by mohamed hossam , horray
 
-* changing the class of sections is dependent upon a scroll event linked to event Listener
+
+
